@@ -6,9 +6,9 @@ CBZeta is a Python program for easy e-book creation.
 
 Download the last release.
 
-'''bash
+```bash
 pip install kivy --user
-'''
+```
 
 ## Usage
 
@@ -20,9 +20,9 @@ pip install kivy --user
 
 - Launch CBZeta with the command:
 
-'''bash
+```bash
 python CBZeta.py
-'''
+```
 
 - Choose "ZIP/RAR to CBZ/CBR".
 
