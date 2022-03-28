@@ -12,11 +12,11 @@ pip install kivy --user
 
 ## Usage
 
-- Put every image you want your ebook to contain into a folder, organised by alphanumerical order.
+- Put every image you want your ebook to contain into a folder.
 
 - Compress this folder into a .zip or .rar file.
 
-- Put your .zip or .rar file into the 'src' folder.
+- Move that .zip or .rar file into the 'src' folder.
 
 - Launch CBZeta with the command:
 
