@@ -1,6 +1,6 @@
 # CBZeta
 
-CBZeta is a Python program for easy e-book creation.
+CBZeta is an application to facilitate the creation of e-books.
 
 ## Installation
 
