@@ -1,5 +1,3 @@
-[![MasterHead]('banner.png')
-
 [![Github All Releases](https://img.shields.io/github/downloads/acentino/CBZeta/total.svg)]()
 
 # CBZeta
