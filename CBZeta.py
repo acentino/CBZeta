@@ -50,7 +50,7 @@ class CBZeta(App):
 
     #Change ZIP/RAR extention to CBZ/CBR extention
     def ziprarconvertion(self, instance):
-        path_folder = r'.\src'
+        path_folder = r'src'
         
         with os.scandir(path_folder) as files_and_folders:
             for element in files_and_folders:
