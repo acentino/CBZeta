@@ -12,11 +12,11 @@ pip install kivy --user
 
 ## Usage
 
-- Put every image you want your ebook to contain into a folder.
+- Put all the images you want your ebook to contain in one folder.
 
 - Compress this folder into a .zip or .rar file.
 
-- Move that .zip or .rar file into the 'src' folder.
+- Move this .zip or .rar file into the 'src' folder.
 
 - Launch CBZeta with the command:
 
@@ -26,6 +26,6 @@ python CBZeta.py
 
 - Choose "ZIP/RAR to CBZ/CBR".
 
-- You're done. You can now use those files with any ebook reading app.
+- You/re done. You can now use this file with any ebook reader application.
 
-- (Optional) You can convert multiple .zip and .rar files at the same time by putting them all inside the 'src' folder
+- (Optional) You can convert multiple .zip and .rar files at the same time by placing them all in the 'src' folder.
