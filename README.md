@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/acentino/CBZeta/total.svg)]()
+
 # CBZeta
 
 CBZeta is an application to facilitate the creation of e-books.
