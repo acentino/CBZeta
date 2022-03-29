@@ -6,7 +6,9 @@ CBZeta is a program to turn compressed files into e-books.
 
 ## Installation
 
-Download the last release.
+- Download the last release.
+
+- Install Kivy:
 
 ```bash
 pip install kivy --user
